@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "stdatomic.h": "c",
+        "i2c_bitbang.h": "c",
+        "inttypes.h": "c",
+        "bmp180em.h": "c",
+        "logger.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "malloc.h": "c",
+        "linked_list.h": "c",
+        "time.h": "c"
+    }
+}
