@@ -1,1 +1,1 @@
-# esp-sensor-emulation
+# Scalable Sensor Emulation for IoT Experiments (Proof-of-Concept on ESP32)
